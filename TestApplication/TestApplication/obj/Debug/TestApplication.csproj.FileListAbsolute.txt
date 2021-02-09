@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\TestApplication\TestApplication\bin\Debug\Database1.mdf
+C:\Users\Acer\source\repos\TestApplication\TestApplication\bin\Debug\Database1_log.ldf
+C:\Users\Acer\source\repos\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\Acer\source\repos\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\Acer\source\repos\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\Acer\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.Form1.resources
+C:\Users\Acer\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.Properties.Resources.resources
+C:\Users\Acer\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\Acer\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
